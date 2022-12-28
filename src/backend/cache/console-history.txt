@@ -1,0 +1,32 @@
+.exit
+feeAccount
+feeaccount
+const feeAccount = await marketplace.feeAccount()
+feePercent
+const feePercent = await marketplace.feePercent()
+marketplace
+const marketplace = await ethers.getContractAt("Marketplace", "0xDc64a140Aa3E981100a9becA4E685f962f0cF6C9")
+.exit
+symbol
+const symbol = await contract.symbol()
+name
+const name = await contract.name()
+tokenCount
+const tokenCount = await contract.tokenCount()
+contract
+console
+const contract = await ethers.getContractAt("NFT","0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9")
+.exit
+const contract = await ethers geContractAt("NFT" , "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512")
+const contract = await ethers getContractAt("NFT" , "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512")
+const contract = await ethers geContractAt("NFT" , "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512")
+const contract=await ethers getcontractsAt("NFT" , "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512")
+const contract = await ethers getcontractsAt("NFT" , "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512")
+const contract g await ethers getcontractsAt("NFT" , "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512")
+ const contract = await ethers getcontractsAt("NFT" , "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512")
+const contract - await ethers getcontractsAt("NFT" , "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512")
+const contract a wait ethers getContact@("NFT","0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266")
+("NFT","0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266")
+const contract a wait ethers getContact@("NFT","0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266")
+const contract a await ethers getcontract@("NFT","0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266")
+const contract await ethers getcontract@("NFT","0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266")
